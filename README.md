@@ -1,4 +1,4 @@
-# freelan-guide-for-windows-users
+# FreeLAN Guide for Windows Users
 
 This project is a hands-on documentation about installing, setting-up and using [FreeLAN](https://github.com/freelan-developers/freelan/) and [OpenSSL](https://www.openssl.org/) on Microsoft Windows (7 and up), intended for beginner-level computer users and above. 
 Various difficulties and errors are listed with their explanations and solutions, in order to allow anyone to successfully use it.
@@ -15,10 +15,10 @@ The guide is available in .odt format, which can be opened with [OpenOffice](htt
 Please open a thread in [issues](https://github.com/TJ-59/freelan-guide-for-windows-users/issues) or [discussions](https://github.com/TJ-59/freelan-guide-for-windows-users/discussions) if you have any difficulty concerning the guide or spot any error or mistranslation.
 Issues with FreeLAN should be reported to the developpers on the [FreeLAN github issue page](https://github.com/freelan-developers/freelan/issues).
 
-
 Maintained by TJ-59
 
-# Guide pour FreeLAN sous windows
+
+# Guide pour FreeLAN sous Windows
 
 Ce projet est une documentation pratique sur l'installation, le paramétrage, et l'utilisation de [FreeLAN](https://github.com/freelan-developers/freelan/) et d'[OpenSSL](https://www.openssl.org/) sous Microsoft Windows (7 et +), visant les utilisateurs d'ordinateurs de niveau débutant et au delà.
 Diverses difficultés et erreurs sont listées avec leurs explications et solutions, pour permettre à n'importe qui de réussir à l'utiliser.
@@ -34,3 +34,12 @@ Merci d'ouvrir un message dans [issues](https://github.com/TJ-59/freelan-guide-f
 Les problèmes avec FreeLAN devraient être rapportés directement aux développeurs sur la page [issues du github de FreeLAN](https://github.com/freelan-developers/freelan/issues).
 
 Entretenu par TJ-59
+
+
+FreeLAN Guide for Windows Users (c) by [TJ-59](https://github.com/TJ-59)
+
+FreeLAN Guide for Windows Users is licensed under a
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+You should have received a copy of the license along with this
+work. If not, see <http://creativecommons.org/licenses/by-nc-sa/4.0/>.
